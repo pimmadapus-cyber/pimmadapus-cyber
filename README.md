@@ -1,11 +1,11 @@
 # Pimmada-Pusamsai
 
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Hello My name is Pimmada 👋</h1>
 <h3 align="center">IT Student</h3>
 
 ---
 
-### 👨‍💻 เกี่ยวกับผม (About Me)
+### 👨‍💻 เกี่ยวกับฉัน (About Me)
 - 🔭 ปัจจุบันกำลังทำโปรเจกต์เกี่ยวกับ **[ชื่อโปรเจกต์หรืองานที่ทำ]**
 - 🌱 กำลังเรียนรู้และพัฒนาทักษะด้าน **[เทคโนโลยีหรือภาษาที่กำลังฝึก]**
 - 💬 สามารถพูดคุยและปรึกษาเรื่อง **[หัวข้อที่คุณถนัด เช่น Web Development, Python]**
