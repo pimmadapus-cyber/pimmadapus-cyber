@@ -35,6 +35,7 @@
 
 ---
 
+สถิติ Github (Github Stats)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pimmadapus-cyber&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimmadapus-cyber&layout=compact&theme=tokyonight" alt="Top Languages" />
