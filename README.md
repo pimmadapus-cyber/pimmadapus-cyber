@@ -48,5 +48,5 @@
 ### 🌐 ช่องทางติดตาม (Connect with me)
 <p align="left">
   <a href="https://www.instagram.com/slcalways?gwpx=ZzllNmgxNHdjYTln&utm_source=qr" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://line.me/ti/p/~YOUR_LINE_ID" target="_blank"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
 </p>
