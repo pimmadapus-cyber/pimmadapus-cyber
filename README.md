@@ -86,11 +86,6 @@
 <a href="https://line.me/ti/p/~YOUR_LINE_ID" target="_blank"><img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pimmadapus-cyber&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimmadapus-cyber&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🌐 ช่องทางติดตาม (Connect with me)
